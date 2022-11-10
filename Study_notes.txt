@@ -1,0 +1,79 @@
+[-] General
+	[-] Stakeholders needs and PO's ideas are turned into user stories.
+	[-] There has to be a short feedback loop between team and stakeholders in delivering the value.
+	
+[-] Product Ownership
+	[-] PO has a vision about a product that he/she is really interested in.
+	[-] PO decides sequencing of what items to build now, what items to build later, and how long items can be in product backlog queue.
+	[-] PO decides ordering based on collaboration with team and stakeholders. Gets to know the value and size of user stories.
+	[-] Backlog grooming 
+		[-] estimating value and size, or prioritising, or splitting of user stories, writing acceptance criteria.
+		[-] whole team and sometimes stakeholders are involved. Usually 1hr/week.
+		
+[-] Team
+	[-] Development team is Cross-functional, and self-managing.
+	[-] Team's capacity = Number of stories released/week.
+	
+[-] Testing
+	[-] Testing - Automation, and continuous integration.
+	[-] Every user story will have a automated acceptance test at the feature level.
+	[-] Automated unit test for code being developed.
+....................................................................................................................................................
+[-] Scrum
+	[-] It is a framework that helps in generating value.
+	
+	[-] Process
+		[-] PO arranges the work or user stories for a project in a product backlog.
+		[-] Scrum team converts a selected product backlog item into an increment of value during a sprint.
+		[-] Team and stakeholders inspect the output and adapt for the next sprint.
+		
+	[-] Scrum is based on empiricism and lean thinking.
+	
+	[-] Four events in Sprint enable transparency, inspection, and adaptation.
+	
+	[-] Scrum Team
+		[-] one Scrum Master, one Product Owner, and Developers.
+		[-] Developers
+			[-] They are committed to create an increment of value each sprint.
+		[-] Product Owner
+			[-] effective Product Backlog management.
+			[-] responsible for maximizing the value of a product.
+		[-] Scrum Master
+			[-] responsible for Scrum team's effectiveness.
+			[-] Serves the scrum team, PO, and the organization in numerous ways.
+			
+	[-] Scrum Events
+		Each event in scrum is a chance to inspect and adapt scrum artifacts.
+		Events are held at same time and place.
+		[-] The Sprint
+			[-] Fixed to one-month or less.
+			[-] Make sure quality does not decrease during the sprint. 
+			[-] Product backlog refinement, scope clarifications and adjustments are done as needed.
+			[-] Sprint goal must be met by the end of the sprint.
+		[-] Sprint Planning
+			[-] Plan that shows list of todo for the sprint.
+			[-] Fixed to max of 8 hours or less.
+			[-] Sprint backlog = Sprint goal + Sprint's work items + delivery plan.
+		[-] Daily Scrum
+			[-] 15-minute event.
+			[-] Useful to inspect progress toward sprint goal.
+			[-] Useful to adjust upcoming work as needed.
+		[-] Sprint Review
+			[-] Max of four hours/one-month sprint.
+			[-] Team shows the demo of their work to stakeholders.
+			[-] Useful to inspect sprint's outcome and adapt for future work.
+		[-] Sprint Retrospective
+			[-] Max of three hours/one-month Sprint.
+			[-] Useful to know what went well; what problems were encountered; how issues were solved.
+			
+	[-] Scrum Artifacts
+		[-] They represent value or work.
+		[-] Product Backlog
+			[-] List of items needed to improve the product.
+			[-] Items refinement can be done as more is learned.
+			[-] Helps to meet the product goal.
+		[-] Sprint Backlog
+			[-] It is a plan by and for the developers.
+			[-] Developers work to meet the sprint goal.
+		[-] Increment
+			[-] An usable increment provides value. It has to meet Definition of Done.
